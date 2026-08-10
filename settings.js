@@ -1,4 +1,4 @@
 // settings.js
 export default {
-  SESSION_ID: "" // add you session id
+  SESSION_ID: "51T8FDA5" // add you session id
 };
