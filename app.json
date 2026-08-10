@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here. (Required)",
       "required": true,
-      "value": ""
+      "value": "51T8FDA5"
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
@@ -29,7 +29,7 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 50943737289)",
       "required": false,
-      "value": "50943737289
+      "value": "50943737289"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: DERMANSLEY-MD)",
