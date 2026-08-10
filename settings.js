@@ -1,4 +1,3 @@
 // settings.js
 export default {
-  SESSION_ID: "51T8FDA5" // add you session id
-};
+  SESSION_ID: "DERMANSLEY-MD 51T8FDA5" // add you DERMANSLEY-MD51T8FDA51T8FDA5
