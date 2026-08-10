@@ -1,4 +1,4 @@
 // settings.js
-export default
+export default{
   SESSION_ID: "" // add you session id
 };
